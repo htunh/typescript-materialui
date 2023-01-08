@@ -1,3 +1,3 @@
-#Run the App
+# Run the App
 yarn install
 yarn start
